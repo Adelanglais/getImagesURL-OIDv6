@@ -17,8 +17,9 @@ git clone https://github.com/Adelanglais/getImagesURL-OIDv6
 pip3 install -r requirements.txt
 ```
 ## Utilisation
+_Adapt with the name of the version you are running_
 ```bash
-python3 getImagesUrl.py getURL
+python3 getImagesUrl_v2.py 
 ```
 **Arguments**
 * **--classes**: Name of the class you want
